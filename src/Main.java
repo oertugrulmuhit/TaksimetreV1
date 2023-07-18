@@ -6,6 +6,7 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         int acilis=10,minodeme=20,mesafe;
+
         double perKM=2.2,tutar;
         Scanner input = new Scanner(System.in);
 
